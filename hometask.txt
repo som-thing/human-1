@@ -1,0 +1,1 @@
+В ветке master в файле README в первой строчке присутствует 'with nice buttons on his jacket (buttons branch)', а в ветке demo такого продолжения нет
